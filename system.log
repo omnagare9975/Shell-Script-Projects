@@ -1,0 +1,29 @@
+-----------CPU MONITORING-------------------------
+CPU USE = 0 %   INFO = OK 
+---------------MEM MONITORING--------------
+MEM USE = 7 % INFO = OK
+----------------DISK MONITORING--------------------
+DISK USE = 1 % INFO = OK
+-----------------SERVICE MONITORING------------------------
+nginx Is Running
+sshd Is Not Running or Installed
+mysql Is Not Running or Installed
+-----------CPU MONITORING-------------------------
+CPU USE = 0 %   INFO = OK 
+---------------MEM MONITORING--------------
+MEM USE = 8 % INFO = OK
+----------------DISK MONITORING--------------------
+-----------------SERVICE MONITORING------------------------
+nginx Is Running
+sshd Is Not Running or Installed
+mysql Is Not Running or Installed
+-----------CPU MONITORING-------------------------
+CPU USE = 0 %   INFO = OK 
+---------------MEM MONITORING--------------
+MEM USE = 8 % INFO = OK
+----------------DISK MONITORING--------------------
+ DISK USE = 1 % INFO OK
+-----------------SERVICE MONITORING------------------------
+nginx Is Running
+sshd Is Not Running or Installed
+mysql Is Not Running or Installed
